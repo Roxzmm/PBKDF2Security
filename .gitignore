@@ -1,0 +1,6 @@
+.idea
+cmake-build-debug
+cmake-build-release
+input.txt
+decrypted.txt
+encrypted.txt
